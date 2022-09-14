@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db6f62f6-7a22-4247-9660-d44f8b6d1ad1": {
+      "ProjectGuid": "db6f62f6-7a22-4247-9660-d44f8b6d1ad1",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 0
+    },
+    "a02ec332-8262-4188-ab8b-f7ade5754f88": {
+      "ProjectGuid": "a02ec332-8262-4188-ab8b-f7ade5754f88",
+      "DisplayName": "ClassObjectInstance",
+      "ColorIndex": 1
+    },
+    "6c003236-9b6d-4239-8668-a332264077a4": {
+      "ProjectGuid": "6c003236-9b6d-4239-8668-a332264077a4",
+      "DisplayName": "Operators",
+      "ColorIndex": 2
+    },
+    "0c335613-7927-4030-bb5a-19a14e8a642d": {
+      "ProjectGuid": "0c335613-7927-4030-bb5a-19a14e8a642d",
+      "DisplayName": "OperatorMethods",
+      "ColorIndex": 3
+    },
+    "b58bedde-b009-4212-8f5a-b40e0ef5c4c5": {
+      "ProjectGuid": "b58bedde-b009-4212-8f5a-b40e0ef5c4c5",
+      "DisplayName": "FirstProject",
+      "ColorIndex": 4
+    },
+    "017dd0dc-32de-47ef-8cd0-4e1913bd7608": {
+      "ProjectGuid": "017dd0dc-32de-47ef-8cd0-4e1913bd7608",
+      "DisplayName": "Array",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "65ecaad5-8318-488a-a668-fbb13d3fbccb": {
+      "ProjectGuid": "65ecaad5-8318-488a-a668-fbb13d3fbccb",
+      "DisplayName": "Statement_Loops",
+      "ColorIndex": 6
+    },
+    "262d50ea-e232-4672-833c-a8882945900c": {
+      "ProjectGuid": "262d50ea-e232-4672-833c-a8882945900c",
+      "DisplayName": "Example02_Array2D",
+      "ColorIndex": 7
+    },
+    "56d29f87-e5a6-4bb9-82ea-6fd223c00192": {
+      "ProjectGuid": "56d29f87-e5a6-4bb9-82ea-6fd223c00192",
+      "DisplayName": "Example03_DynamicArray",
+      "ColorIndex": 8
+    },
+    "2be089a4-09bf-46c4-a360-3cd9d04b2df4": {
+      "ProjectGuid": "2be089a4-09bf-46c4-a360-3cd9d04b2df4",
+      "DisplayName": "GenericCollections",
+      "ColorIndex": 9
+    },
+    "90a54e87-19fa-4d1d-9462-dd411ea6cf63": {
+      "ProjectGuid": "90a54e87-19fa-4d1d-9462-dd411ea6cf63",
+      "DisplayName": "Enum_SwitchCase",
+      "ColorIndex": 10
+    },
+    "f818cb70-66cb-4284-9f13-86e7a956b3a0": {
+      "ProjectGuid": "f818cb70-66cb-4284-9f13-86e7a956b3a0",
+      "DisplayName": "Example04_HorseRacing",
+      "ColorIndex": 11
+    },
+    "5b980fbf-3ebb-4ab3-9aa5-3d8732406e6f": {
+      "ProjectGuid": "5b980fbf-3ebb-4ab3-9aa5-3d8732406e6f",
+      "DisplayName": "Structure",
+      "ColorIndex": 12
+    },
+    "678d7e7f-1429-4b7b-bcd5-c260d28b075d": {
+      "ProjectGuid": "678d7e7f-1429-4b7b-bcd5-c260d28b075d",
+      "DisplayName": "GCTest",
+      "ColorIndex": 13
+    },
+    "6139a60a-f97a-4a9f-a083-8aa123ed8441": {
+      "ProjectGuid": "6139a60a-f97a-4a9f-a083-8aa123ed8441",
+      "DisplayName": "ClassInheritance",
+      "ColorIndex": 14
+    },
+    "7665d9b4-8394-4904-852a-806d7ae75f14": {
+      "ProjectGuid": "7665d9b4-8394-4904-852a-806d7ae75f14",
+      "DisplayName": "Delegate",
+      "ColorIndex": 15
+    },
+    "92686942-70c6-4d23-8883-7eca400b0a39": {
+      "ProjectGuid": "92686942-70c6-4d23-8883-7eca400b0a39",
+      "DisplayName": "Example01_ClassObjectInstance",
+      "ColorIndex": 0
+    },
+    "265e4e70-5621-4d31-b7ad-820be31617af": {
+      "ProjectGuid": "265e4e70-5621-4d31-b7ad-820be31617af",
+      "DisplayName": "InstantiationExample",
+      "ColorIndex": 1
+    },
+    "23d37684-f661-4200-ab7e-9b91c5edce3b": {
+      "ProjectGuid": "23d37684-f661-4200-ab7e-9b91c5edce3b",
+      "DisplayName": "Example05_DiceGame",
+      "ColorIndex": 2
+    },
+    "a0de7389-a168-4dda-a6d1-7423eb4a84fe": {
+      "ProjectGuid": "a0de7389-a168-4dda-a6d1-7423eb4a84fe",
+      "DisplayName": "Example06_MyLinkedList",
+      "ColorIndex": 3
+    },
+    "d89b6de7-e7a3-4dcc-9ca5-2784b882d6c7": {
+      "ProjectGuid": "d89b6de7-e7a3-4dcc-9ca5-2784b882d6c7",
+      "DisplayName": "Example07_MyHashtable",
+      "ColorIndex": 4
+    },
+    "21195c31-3c97-4127-88f7-bbd76e3e33c3": {
+      "ProjectGuid": "21195c31-3c97-4127-88f7-bbd76e3e33c3",
+      "DisplayName": "Example08_MyBinaryTree",
+      "ColorIndex": 5
+    },
+    "391b3534-66fb-4cf2-9673-03adc360d0ba": {
+      "ProjectGuid": "391b3534-66fb-4cf2-9673-03adc360d0ba",
+      "DisplayName": "SortAlgorithms",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

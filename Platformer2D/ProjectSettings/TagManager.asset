@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Ground
+  - 
+  - Ladder
+  - Portal
+  - 
+  - Player
+  - PlayerCollision
+  - 
+  - 
+  - 
+  - Enemy
+  - EnemyCollision
+  - EnemyProjectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 3D
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1050312151
+    locked: 0
+  - name: Ground
+    uniqueID: 900974747
+    locked: 0
+  - name: BackgroundObjects
+    uniqueID: 2795600895
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2289885093
+    locked: 0
+  - name: ObstaclesInteractable
+    uniqueID: 27923793
+    locked: 0
+  - name: Player
+    uniqueID: 2238068561
+    locked: 0
+  - name: Enemy
+    uniqueID: 286095749
+    locked: 0
+  - name: EnemyUI
+    uniqueID: 1007557251
+    locked: 0
+  - name: DamagePopUp
+    uniqueID: 3722743535
+    locked: 0
